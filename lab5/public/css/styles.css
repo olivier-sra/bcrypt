@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    min-inline-size: 0%;
+}
+
+img {
+    width: 70%;
+    max-height: 700px;
+    object-fit: contain;
+    display: flex;
+    margin: 0 auto;
+    min-width: none;
+    min-height: 100px;
+}
+
+header {
+    margin-bottom: 20px;
+}
